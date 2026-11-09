@@ -148,7 +148,7 @@
     "wof:concordances":{},
     "wof:country":"ET",
     "wof:created":1499131005,
-    "wof:geomhash":"6279e1f469c5b9d461169b7a31ecf5e7",
+    "wof:geomhash":"2e350afdf6446ca2bd575264377199db",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -174,5 +174,5 @@
     39.58330969112654,
     5.31661216117055
 ],
-  "geometry": {"coordinates":[39.58330969112654,5.31661216117055],"type":"Point"}
+  "geometry": {"coordinates":[39.58331,5.316612],"type":"Point"}
 }

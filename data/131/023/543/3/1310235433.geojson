@@ -41,7 +41,7 @@
         "gn:id":331105
     },
     "wof:country":"ET",
-    "wof:geomhash":"ec39da362678b71debdecbeae91a19af",
+    "wof:geomhash":"63916f8d67d6b48bf97a2a98892bd44e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     37.75,
     9.0
 ],
-  "geometry": {"coordinates":[37.75,9.0],"type":"Point"}
+  "geometry": {"coordinates":[37.75,9],"type":"Point"}
 }

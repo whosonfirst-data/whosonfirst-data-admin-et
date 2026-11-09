@@ -76,7 +76,7 @@
         "wk:page":"Weldiya"
     },
     "wof:country":"ET",
-    "wof:geomhash":"26ccbbf02a2dea39137f8ec6a09d7ae6",
+    "wof:geomhash":"1f62166c1633400abb9d5c76ccae41c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -102,5 +102,5 @@
     39.59164000000001,
     11.8277
 ],
-  "geometry": {"coordinates":[39.59164000000001,11.8277],"type":"Point"}
+  "geometry": {"coordinates":[39.59164,11.8277],"type":"Point"}
 }

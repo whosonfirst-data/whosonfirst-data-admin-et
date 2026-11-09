@@ -54,7 +54,7 @@
         "wk:page":"Fedis"
     },
     "wof:country":"ET",
-    "wof:geomhash":"d5649cd605b623ac1210cb703fa8b51d",
+    "wof:geomhash":"4329bc0a9b5a2f5a1249ae9279a17d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     42.09164000000001,
     9.25038
 ],
-  "geometry": {"coordinates":[42.09164000000001,9.25038],"type":"Point"}
+  "geometry": {"coordinates":[42.09164,9.25038],"type":"Point"}
 }

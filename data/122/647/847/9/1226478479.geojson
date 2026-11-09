@@ -61,7 +61,7 @@
         "wk:page":"Injibara"
     },
     "wof:country":"ET",
-    "wof:geomhash":"2976db0fa52ee560e00772d5434f6047",
+    "wof:geomhash":"4ba396f32059cc1f806be857921d154e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,5 +87,5 @@
     36.91667,
     11.0
 ],
-  "geometry": {"coordinates":[36.91667,11.0],"type":"Point"}
+  "geometry": {"coordinates":[36.91667,11],"type":"Point"}
 }

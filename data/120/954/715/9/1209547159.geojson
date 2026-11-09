@@ -55,7 +55,7 @@
         "wk:page":"Sela_Dingay"
     },
     "wof:country":"ET",
-    "wof:geomhash":"8081ad9a911c96a16cce84e690507996",
+    "wof:geomhash":"d806cec95a386e6a91521a71fa287342",
     "wof:hierarchy":[
         {
             "country_id":85632257,
@@ -78,5 +78,5 @@
     39.63079000000001,
     9.95433
 ],
-  "geometry": {"coordinates":[39.63079000000001,9.95433],"type":"Point"}
+  "geometry": {"coordinates":[39.63079,9.95433],"type":"Point"}
 }
