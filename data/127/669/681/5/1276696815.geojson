@@ -78,9 +78,6 @@
     "name:vie_x_preferred":[
         "Abay"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u963f\u62dc\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u963f\u62dc"
     ],
@@ -107,7 +104,7 @@
         }
     ],
     "wof:id":1276696815,
-    "wof:lastmodified":1636503439,
+    "wof:lastmodified":1794999722,
     "wof:name":"Abay",
     "wof:parent_id":1108695223,
     "wof:placetype":"locality",
