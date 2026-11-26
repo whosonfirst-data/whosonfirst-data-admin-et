@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695167
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632257,
             "county_id":1108695167,
             "locality_id":1360016171,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1360016171,
-    "wof:lastmodified":1566593491,
+    "wof:lastmodified":1795729991,
     "wof:name":"Feregosa",
     "wof:parent_id":1108695167,
     "wof:placetype":"locality",

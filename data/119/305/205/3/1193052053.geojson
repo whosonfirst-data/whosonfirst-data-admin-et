@@ -63,7 +63,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008365,
         1108695241
     ],
     "wof:breaches":[],
@@ -78,11 +78,11 @@
             "country_id":85632257,
             "county_id":1108695241,
             "locality_id":1193052053,
-            "region_id":85671133
+            "region_id":9895008365
         }
     ],
     "wof:id":1193052053,
-    "wof:lastmodified":1566593327,
+    "wof:lastmodified":1795729991,
     "wof:name":"Dare",
     "wof:parent_id":1108695241,
     "wof:placetype":"locality",

@@ -154,7 +154,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133
+        9895008362
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -175,13 +175,13 @@
             "continent_id":102191573,
             "country_id":85632257,
             "county_id":421204421,
-            "region_id":85671133
+            "region_id":9895008362
         }
     ],
     "wof:id":421204421,
-    "wof:lastmodified":1695886035,
+    "wof:lastmodified":1795729991,
     "wof:name":"Sidama",
-    "wof:parent_id":85671133,
+    "wof:parent_id":9895008362,
     "wof:placetype":"county",
     "wof:placetype_local":"zone",
     "wof:population":3104958,

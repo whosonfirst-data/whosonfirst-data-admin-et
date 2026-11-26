@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695129
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632257,
             "county_id":1108695129,
             "locality_id":1327462771,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1327462771,
-    "wof:lastmodified":1566592838,
+    "wof:lastmodified":1795729991,
     "wof:name":"Ch'ep'o",
     "wof:parent_id":1108695129,
     "wof:placetype":"locality",

@@ -40,7 +40,7 @@
         85676975,
         1091914791,
         85632257,
-        85671133,
+        9895008364,
         1108695219
     ],
     "wof:breaches":[],
@@ -62,11 +62,11 @@
             "country_id":85632257,
             "county_id":1108695219,
             "locality_id":1193051967,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1193051967,
-    "wof:lastmodified":1566593328,
+    "wof:lastmodified":1795729991,
     "wof:name":"Kibish Wells",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

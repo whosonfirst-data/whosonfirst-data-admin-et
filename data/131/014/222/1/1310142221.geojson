@@ -258,7 +258,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008363,
         1108695181
     ],
     "wof:breaches":[],
@@ -273,11 +273,11 @@
             "country_id":85632257,
             "county_id":1108695181,
             "locality_id":1310142221,
-            "region_id":85671133
+            "region_id":9895008363
         }
     ],
     "wof:id":1310142221,
-    "wof:lastmodified":1566593422,
+    "wof:lastmodified":1795729991,
     "wof:name":"Shaka",
     "wof:parent_id":1108695181,
     "wof:placetype":"locality",

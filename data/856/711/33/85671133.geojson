@@ -5,7 +5,7 @@
     "abrv:eng_x_preferred":[
         "SNNPR"
     ],
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2023-08",
     "edtf:inception":"uuuu",
     "geom:area":9.224607,
     "geom:area_square_m":113323793116.269272,
@@ -29,7 +29,7 @@
     "mps:latitude":6.150873,
     "mps:longitude":36.483499,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:max_zoom":11.0,
     "mz:min_zoom":6.6,
     "name:amh_x_preferred":[
@@ -370,7 +370,7 @@
     "wof:lang_x_spoken":[
         "amh"
     ],
-    "wof:lastmodified":1695884375,
+    "wof:lastmodified":1795729991,
     "wof:name":"Southern Nations, Nationalities and Peoples",
     "wof:parent_id":85632257,
     "wof:placetype":"region",
@@ -379,7 +379,12 @@
     "wof:population_rank":14,
     "wof:repo":"whosonfirst-data-admin-et",
     "wof:shortcode":"SN",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        9895008362,
+        9895008363,
+        9895008364,
+        9895008365
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

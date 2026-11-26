@@ -39,7 +39,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008363,
         1108695217
     ],
     "wof:breaches":[],
@@ -54,11 +54,11 @@
             "country_id":85632257,
             "county_id":1108695217,
             "locality_id":1276481419,
-            "region_id":85671133
+            "region_id":9895008363
         }
     ],
     "wof:id":1276481419,
-    "wof:lastmodified":1566593180,
+    "wof:lastmodified":1795729991,
     "wof:name":"Vuca",
     "wof:parent_id":1108695217,
     "wof:placetype":"locality",

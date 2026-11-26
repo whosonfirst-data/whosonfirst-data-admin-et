@@ -139,7 +139,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008363,
         1108695147
     ],
     "wof:breaches":[],
@@ -154,11 +154,11 @@
             "country_id":85632257,
             "county_id":1108695147,
             "locality_id":1327064575,
-            "region_id":85671133
+            "region_id":9895008363
         }
     ],
     "wof:id":1327064575,
-    "wof:lastmodified":1566592778,
+    "wof:lastmodified":1795729991,
     "wof:name":"Mari",
     "wof:parent_id":1108695147,
     "wof:placetype":"locality",
