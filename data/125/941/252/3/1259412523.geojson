@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695183
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632257,
             "county_id":1108695183,
             "locality_id":1259412523,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1259412523,
-    "wof:lastmodified":1566593707,
+    "wof:lastmodified":1795729991,
     "wof:name":"Duati",
     "wof:parent_id":1108695183,
     "wof:placetype":"locality",

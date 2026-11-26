@@ -70,7 +70,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008363,
         890450041
     ],
     "wof:breaches":[],
@@ -90,11 +90,11 @@
             "country_id":85632257,
             "county_id":890450041,
             "locality_id":890433309,
-            "region_id":85671133
+            "region_id":9895008363
         }
     ],
     "wof:id":890433309,
-    "wof:lastmodified":1690879636,
+    "wof:lastmodified":1795729991,
     "wof:name":"M\u012bzan Tefer\u012b",
     "wof:parent_id":890450041,
     "wof:placetype":"locality",

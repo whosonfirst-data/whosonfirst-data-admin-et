@@ -45,7 +45,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695219
     ],
     "wof:breaches":[],
@@ -60,11 +60,11 @@
             "country_id":85632257,
             "county_id":1108695219,
             "locality_id":1293918599,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1293918599,
-    "wof:lastmodified":1566592994,
+    "wof:lastmodified":1795729991,
     "wof:name":"Bodu",
     "wof:parent_id":1108695219,
     "wof:placetype":"locality",

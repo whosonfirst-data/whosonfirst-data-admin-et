@@ -57,7 +57,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695151
     ],
     "wof:breaches":[],
@@ -72,11 +72,11 @@
             "country_id":85632257,
             "county_id":1108695151,
             "locality_id":1343796067,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1343796067,
-    "wof:lastmodified":1566592922,
+    "wof:lastmodified":1795729991,
     "wof:name":"Busa",
     "wof:parent_id":1108695151,
     "wof:placetype":"locality",

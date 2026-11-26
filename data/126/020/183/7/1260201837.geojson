@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008365,
         1108695215
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632257,
             "county_id":1108695215,
             "locality_id":1260201837,
-            "region_id":85671133
+            "region_id":9895008365
         }
     ],
     "wof:id":1260201837,
-    "wof:lastmodified":1566593362,
+    "wof:lastmodified":1795729991,
     "wof:name":"Shifode Debar",
     "wof:parent_id":1108695215,
     "wof:placetype":"locality",

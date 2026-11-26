@@ -93,7 +93,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008364,
         1108695129
     ],
     "wof:breaches":[],
@@ -108,11 +108,11 @@
             "country_id":85632257,
             "county_id":1108695129,
             "locality_id":1293522995,
-            "region_id":85671133
+            "region_id":9895008364
         }
     ],
     "wof:id":1293522995,
-    "wof:lastmodified":1566593015,
+    "wof:lastmodified":1795729991,
     "wof:name":"Bale",
     "wof:parent_id":1108695129,
     "wof:placetype":"locality",

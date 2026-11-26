@@ -37,7 +37,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008365,
         890421359
     ],
     "wof:breaches":[],
@@ -52,11 +52,11 @@
             "country_id":85632257,
             "county_id":890421359,
             "locality_id":1260214909,
-            "region_id":85671133
+            "region_id":9895008365
         }
     ],
     "wof:id":1260214909,
-    "wof:lastmodified":1566593374,
+    "wof:lastmodified":1795729991,
     "wof:name":"Gimbicho",
     "wof:parent_id":890421359,
     "wof:placetype":"locality",

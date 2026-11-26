@@ -33,7 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632257,
-        85671133,
+        9895008365,
         421182273
     ],
     "wof:breaches":[],
@@ -48,11 +48,11 @@
             "country_id":85632257,
             "county_id":421182273,
             "locality_id":1259417589,
-            "region_id":85671133
+            "region_id":9895008365
         }
     ],
     "wof:id":1259417589,
-    "wof:lastmodified":1566593704,
+    "wof:lastmodified":1795729991,
     "wof:name":"Ch'anch'o",
     "wof:parent_id":421182273,
     "wof:placetype":"locality",
