@@ -1,0 +1,75 @@
+{
+  "id": 9895008386,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.66083,9.03528,38.66083,9.03528",
+    "geom:latitude":9.03528,
+    "geom:longitude":38.66083,
+    "gn:population":101400,
+    "iso:country":"ET",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640444: name \"Burayu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640444"
+        },
+        {
+            "citation":"GeoNames populated place 12640444: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640444"
+        },
+        {
+            "citation":"GeoNames populated place 12640444: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640444"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695239 (West Shewa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257,
+        85671141,
+        102191573,
+        1108695239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640444
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"c29bb7f2fc6005fc3d594871f61ccd58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695239,
+            "locality_id":9895008386,
+            "region_id":85671141
+        }
+    ],
+    "wof:id":9895008386,
+    "wof:lastmodified":1795733022,
+    "wof:name":"Burayu",
+    "wof:parent_id":1108695239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.66083,
+    9.03528,
+    38.66083,
+    9.03528
+],
+  "geometry": {"coordinates":[38.66083,9.03528],"type":"Point"}
+}
