@@ -1,0 +1,75 @@
+{
+  "id": 9895092888,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"38.18529,7.85257,38.18529,7.85257",
+    "geom:latitude":7.85257,
+    "geom:longitude":38.18529,
+    "gn:population":25400,
+    "iso:country":"ET",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640452: name \"Worabe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640452"
+        },
+        {
+            "citation":"GeoNames populated place 12640452: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640452"
+        },
+        {
+            "citation":"GeoNames populated place 12640452: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640452"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695215 (Selti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257,
+        102191573,
+        1108695215,
+        9895008365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640452
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"4ebcf35b25ae1a572f139d76ff4db24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695215,
+            "locality_id":9895092888,
+            "region_id":9895008365
+        }
+    ],
+    "wof:id":9895092888,
+    "wof:lastmodified":1795747141,
+    "wof:name":"Worabe",
+    "wof:parent_id":1108695215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    38.18529,
+    7.85257,
+    38.18529,
+    7.85257
+],
+  "geometry": {"coordinates":[38.18529,7.85257],"type":"Point"}
+}

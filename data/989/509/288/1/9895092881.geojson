@@ -1,0 +1,75 @@
+{
+  "id": 9895092881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"45.64603,5.75279,45.64603,5.75279",
+    "geom:latitude":5.75279,
+    "geom:longitude":45.64603,
+    "gn:population":18000,
+    "iso:country":"ET",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 6311119: name \"Kahandhale\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/6311119"
+        },
+        {
+            "citation":"GeoNames populated place 6311119: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/6311119"
+        },
+        {
+            "citation":"GeoNames populated place 6311119: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/6311119"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108695185 (Korahe), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632257,
+        85671155,
+        102191573,
+        1108695185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311119
+    },
+    "wof:country":"ET",
+    "wof:geomhash":"b19b70a6be17dc70f2433c0153a932b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632257,
+            "county_id":1108695185,
+            "locality_id":9895092881,
+            "region_id":85671155
+        }
+    ],
+    "wof:id":9895092881,
+    "wof:lastmodified":1795747141,
+    "wof:name":"Kahandhale",
+    "wof:parent_id":1108695185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-et",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    45.64603,
+    5.75279,
+    45.64603,
+    5.75279
+],
+  "geometry": {"coordinates":[45.64603,5.75279],"type":"Point"}
+}
